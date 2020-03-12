@@ -1,3 +1,4 @@
+*.yml
 target/*
 .settings/*
 .classpath
