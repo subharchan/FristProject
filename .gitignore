@@ -1,4 +1,4 @@
-*.yml
+docker-compose.yml
 target/*
 .settings/*
 .classpath
